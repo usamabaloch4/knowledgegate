@@ -1,0 +1,44 @@
+h1.welcome {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.snipets {
+
+}
+.snipets .card {
+    margin-bottom: 25px;
+}
+.snipets .card.bg-warning {
+    background: #ef9e26!important;
+}
+.snipets .card.bg-success {
+    background: #129a9a!important;
+}
+.snipets .card .card-body {
+    position: relative;
+}
+.snipets .card .card-body h1 {
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0;
+}
+.snipets .card .card-body h1 i.mdi {
+    text-shadow: 0 0 9px rgb(0 0 0 / 30%);
+}
+.snipets .card .card-body div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.snipets .card .card-body h4 {
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.snipets .card .card-body h4 span {
+    display: block;
+    text-align: right;
+    font-size: 18px;
+}
